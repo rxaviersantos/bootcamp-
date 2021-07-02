@@ -48,8 +48,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## ✨ Tecnologias utilizadas
 
 ### Front end
-- Java
+- JavaScript 
 - Angular
+- Html
+- Css
 
 ### Implantação em produção
 - Front end: Heroku
