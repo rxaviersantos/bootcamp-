@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://user-images.githubusercontent.com/85380530/124314317-95a9e600-db48-11eb-9517-2d33226d98e5.PNG" />
+ <img width="200px" src="https://user-images.githubusercontent.com/85380530/124314317-95a9e600-db48-11eb-9517-2d33226d98e5.PNG" />
 </p>
 
 # Santander dev week bootcamp - front end
